@@ -5,3 +5,5 @@ To link to an image in this repository:
 ```sh
 ![Alt text](https://raw.githubusercontent.com/ursweiss/screenshots/master/project/filename.png)
 ```
+## Size
+Recommended width for images: 900px
