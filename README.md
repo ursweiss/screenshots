@@ -1,5 +1,5 @@
 # Screenshots
-Screenshots used in README.md files of other repos (so i don't have them to include in the repo itself)
+Screenshots used in README.md files of other repos (so i don't have to include them in the repo itself)
 
 To link to an image in this repository:
 ```sh
